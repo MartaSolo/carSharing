@@ -13,3 +13,7 @@ HTML5, CSS3
 ## Demo:
 
 ![Car Sharing](https://github.com/MartaSolo/carSharing/blob/main/Car%20Sharing.gif)
+
+## Preview:
+
+https://car-sharing-ms.netlify.app/
